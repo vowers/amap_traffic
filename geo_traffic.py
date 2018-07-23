@@ -10,7 +10,7 @@ from locaDiv import LocaDiv
 
 
 
-BASE_URL = 'https://restapi.amap.com/v3/traffic/status/rectangle?rectangle={loc}&key=cc72fcf0da6c13726dc7e64dd98a22d4&extensions=all'
+BASE_URL = 'https://restapi.amap.com/v3/traffic/status/rectangle?rectangle={loc}&key=你的KEY&extensions=all'
 
 
 
